@@ -6,5 +6,5 @@ the faculty and TAs can use it to satisfy their requests, and administrators can
 more conveniently. In general this software is able to increase the efficiency when dealing with the TA
 issues.
 
-This folder includes eight assignments which cover different stages of analysis and design. See specific documents 
+This folder includes seven assignments which cover different stages of analysis and design. See specific documents 
 for more information.
